@@ -1,5 +1,4 @@
 <div  id="header" align="center">
-<div id="banner">
     <svg width="717" height="124" class="js-calendar-graph-svg" xmlns="http://www.w3.org/2000/svg"><style>
     :root {
         --c0: rgba(27, 31, 35, 0.06);
@@ -3358,7 +3357,6 @@ transform: rotate(0deg)
                 animation-name: c275
             }</style>
     <g transform="translate(15, 20)" data-hydro-click="{&quot;event_type&quot;:&quot;user_profile.click&quot;,&quot;payload&quot;:{&quot;profile_user_id&quot;:57603839,&quot;target&quot;:&quot;CONTRIBUTION_CALENDAR_SQUARE&quot;,&quot;user_id&quot;:null,&quot;originating_url&quot;:&quot;https://github.com/AdamsGeeky&quot;}}" data-hydro-click-hmac="64e78066a0e6225aece9fac5c6adbcb7007014d207191cd415c0354d4914a61b">
-
         <g transform="translate(0, 0)">
             <rect width="10" height="10" x="14" y="0" class="o" data-date="2022-07-10" data-level="0" rx="2" ry="2">No contributions on Sunday, July 10, 2022</rect>
             <rect width="10" height="10" x="14" y="13" class="o" data-date="2022-07-11" data-level="0" rx="2" ry="2">No contributions on Monday, July 11, 2022</rect>
@@ -3854,7 +3852,7 @@ transform: rotate(0deg)
       
       
 </g>  <a href="https://github.com/jasineri/gitartwork"><text x="24" y="118" font-size="0.6em" fill="blue">Get your own gitartwork on jasineri/gitartwork</text></a></svg>
-</div> 
+
 <h3>Diego Andres Velasquez</h3>
 
 <div  id="gifs">
