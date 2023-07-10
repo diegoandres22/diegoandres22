@@ -1,5 +1,15 @@
-![gitartwork](https://github.com/diegoandres22/diegoandres22/assets/89799715/3659d521-824b-47fd-a73a-e87815cf0858)<div  id="header" align="center">
+![gitartwork](https://github.com/diegoandres22/diegoandres22/assets/89799715/3659d521-824b-47fd-a73a-e87815cf0858)
+<div id="header" align="center">
 
+<h3>Diego Andres Velasquez</h3>
+
+<div  id="gifs">
+<img src="https://media.giphy.com/media/0lGElDgkbXFRKXsAro/giphy-downsized-large.gif" alt="diego" width="300px">
+    <img src="https://media.giphy.com/media/5OW9D8sfzccttn3MwL/giphy.gif" alt="diego" width="300px">
+
+</div>
+   
+</div>
 ![Upload<svg width="717" height="124" class="js-calendar-graph-svg" xmlns="http://www.w3.org/2000/svg"><style>
     :root {
         --c0: rgba(27, 31, 35, 0.06);
@@ -3855,13 +3865,4 @@ transform: rotate(0deg)
       
 </g>  <a href="https://github.com/jasineri/gitartwork"><text x="24" y="118" font-size="0.6em" fill="blue">Get your own gitartwork on jasineri/gitartwork</text></a></svg>ing gitartwork.svg…]()
 
-<h3>Diego Andres Velasquez</h3>
-
-<div  id="gifs">
-<img src="https://media.giphy.com/media/0lGElDgkbXFRKXsAro/giphy-downsized-large.gif" alt="diego" width="300px">
-    <img src="https://media.giphy.com/media/5OW9D8sfzccttn3MwL/giphy.gif" alt="diego" width="300px">
-
-</div>
-   
-</div>
 
