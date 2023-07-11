@@ -44,7 +44,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=diegoandres22&theme=transparent&hide_border=true&border_radius=9&locale=es&date_format=j%2Fn%5B%2FY%5D&mode=weekly)](https://git.io/streak-stats)
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegoandres22&show_icons=true&theme=transparent)
 
 <div  id="gifs">
 
