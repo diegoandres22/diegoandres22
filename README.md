@@ -1,4 +1,3 @@
- ![gitartwork](gitartwork.svg)
   
 <div id="header" align="center">
 
