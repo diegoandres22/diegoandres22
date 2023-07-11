@@ -1,11 +1,6 @@
 
 <div id="header" align="center">
-
-<div  id="banner" width="900px" height="200px>
-<img src="https://media.giphy.com/media/oq7CJCmI4HGG6kp62U/giphy-downsized-large.gif" alt="diego" width="300px">
-
-</div>
-
+<img src="https://media.giphy.com/media/oq7CJCmI4HGG6kp62U/giphy-downsized-large.gif" alt="diego" width="900px" height="200px>
 
 <h1>Diego Andres Velasquez</h1>
 
