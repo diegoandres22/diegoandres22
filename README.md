@@ -42,7 +42,10 @@
   
 </div>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=diegoandres22&theme=transparent&hide_border=true&border_radius=9&locale=es&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 <div  id="gifs">
+
+  
   <img src="https://media.giphy.com/media/0lGElDgkbXFRKXsAro/giphy-downsized-large.gif"  width="400px">
   <img src="https://media.giphy.com/media/VVGdG2HimJl6APwPiE/giphy.gif"  width="425px">
 </div>
