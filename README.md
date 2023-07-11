@@ -8,7 +8,7 @@
 
 
 </div>
-<img src="https://media.giphy.com/media/eCwAEs05phtK/giphy.gif" width="900px" height="250px">
+<img src="https://media.giphy.com/media/IwTWTsUzmIicM/giphy.gif" width="900px" height="250px">
 
 
 <h1>Diego Andres Velasquez</h1>
