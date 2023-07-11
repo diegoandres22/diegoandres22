@@ -14,6 +14,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"  width="50px">
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png"  width="50px">
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/888px-Apache_NetBeans_Logo.svg.png"  width="40px">
+  <hr>
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"  width="50px">
  <img src="https://khaganat.net/wikhan/_media/fr:git_icon.png"  width="50px">
  <img src="https://seeklogo.com/images/P/postman-logo-F43375A2EB-seeklogo.com.png"  width="50px">
