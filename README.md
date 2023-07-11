@@ -20,9 +20,10 @@
  <img src="https://seeklogo.com/images/P/postman-logo-F43375A2EB-seeklogo.com.png"  width="50px">
  <img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png"  width="50px">
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/2048px-Ruby_logo.svg.png"  width="50px">
-<img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-dsc/events/logo_RdHo7Lf.png"  width="60px">
+<img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-dsc/events/logo_RdHo7Lf.png"  width="50px">
+<img src="https://railway.app/brand/logo-light.png"  width="50px">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png"  width="50px">
+  
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png"  width="50px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png"  width="50px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png"  width="50px">
