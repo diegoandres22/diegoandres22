@@ -9,7 +9,7 @@
 
 
 <h1>Diego Andres Velasquez</h1>
-<h4>Desde el 2018, luego de orientar mis estudios hacia la programación. Me enfoqué en armar este stack tecnológico. Ya puedo decir que mi objetivo es, ahora, explotar mi creatividad, ejercitar mi cerebro al máximo para lograr la resolución de problemas día a día y hacer de la programación parte de mi vida.</h4>
+<h4>Desde 2020, tras haber dirigido mi enfoque hacia la programación, he estado construyendo este conjunto de tecnologías. En este momento, puedo afirmar que mi objetivo consiste en aprovechar mi creatividad al máximo, desafiando mi mente para resolver problemas diariamente y hacer de la programación una parte fundamental de mi vida profesional.</h4>
 
 <h4>Lenguajes & herramientas:</h4>
 <div  id="techs">
