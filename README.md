@@ -4,7 +4,7 @@
 
 <div  id="gifs">
 
-<img src="https://media.giphy.com/media/RMwOISuwbMfR9OpOCf/giphy.gif" width="322px">
+<img src="https://media.giphy.com/media/RMwOISuwbMfR9OpOCf/giphy.gif" width="822px">
 </div>
 
 <h1>Diego Andres Velasquez</h1>
