@@ -20,7 +20,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png"  width="50px">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/640px-JavaScript-logo.png"  width="50px">
 
-   <img src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png"  width="50px">
+   <img src="https://qph.cf2.quoracdn.net/main-qimg-c43424186b9c089b9aa1d64c7f1989c1"  width="50px">
 
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png"  width="50px">
 
