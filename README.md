@@ -11,7 +11,7 @@
 <h1>Diego Andres Velasquez</h1>
 <h4>Desde el 2018, luego de orientar mis estudios hacia la programación. Me enfoqué en armar este stack tecnológico. Ya puedo decir que mi objetivo es, ahora, explotar mi creatividad, ejercitar mi cerebro al máximo para lograr la resolución de problemas día a día y hacer de la programación parte de mi vida.</h4>
 
-<h5>Lenguajes & herramientas:</h5>
+<h4>Lenguajes & herramientas:</h4>
 <div  id="techs">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/2048px-HTML5_Badge.svg.png"  width="50px">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png"  width="50px">
@@ -43,10 +43,10 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=diegoandres22&theme=transparent&hide_border=true&border_radius=9&locale=es&date_format=j%2Fn%5B%2FY%5D&mode=weekly)](https://git.io/streak-stats)
 
+<div  id="gifs">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegoandres22&show_icons=true&theme=transparent)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegoandres22&layout=compact)
-
+</div>
 
 <h4>" La creatividad es la inteligencia divirtiéndose "</h4>
 <div  id="gifs">
