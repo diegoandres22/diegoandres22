@@ -15,7 +15,7 @@
 
 <h5>Lenguajes & herramientas:</h5>
 <div  id="techs">
-
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/2048px-HTML5_Badge.svg.png"  width="80px">
 </div>
 
 <div  id="gifs">
