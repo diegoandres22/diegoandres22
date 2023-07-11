@@ -1,7 +1,7 @@
+<img src="https://media.giphy.com/media/oq7CJCmI4HGG6kp62U/giphy-downsized-large.gif"  width="600px" >
 
 <div id="header" align="center">
   
-<img src="https://media.giphy.com/media/oq7CJCmI4HGG6kp62U/giphy-downsized-large.gif"  width="600px" >
 
 <h1>Diego Andres Velasquez</h1>
 
