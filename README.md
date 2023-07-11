@@ -45,7 +45,7 @@
 
 <div  id="gifs">
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegoandres22&show_icons=true&theme=transparent&border_color="transparent")
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegoandres22&show_icons=true&theme=transparent&border_color=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegoandres22&layout=compact)
 
 </div>
