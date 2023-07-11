@@ -2,13 +2,12 @@
 <div id="header" align="center">
 
 <h1>Diego Andres Velasquez</h1>
-
 <div  id="gifs">
 <img src="https://media.giphy.com/media/TGjOgur4qgsFFeIprS/giphy.gif"  width="300px">
- 
-https://media.giphy.com/media/0lGElDgkbXFRKXsAro/giphy-downsized-large.gif
 <img src="https://media.giphy.com/media/TGjOgur4qgsFFeIprS/giphy.gif" width="322px">
 </div>
+
+https://media.giphy.com/media/0lGElDgkbXFRKXsAro/giphy-downsized-large.gif
 
 <h4>" La creatividad es la inteligencia divirtiéndose "</h4>
   
