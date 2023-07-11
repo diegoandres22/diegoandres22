@@ -9,8 +9,7 @@
 
 
 <h1>Diego Andres Velasquez</h1>
-<h4>" La creatividad es la inteligencia divirtiéndose "</h4>
-
+<h4>Desde el 2018, luego de orientar mis estudios hacia la programación. Me enfoqué en armar este stack tecnológico. Ya puedo decir que mi objetivo es, ahora, explotar mi creatividad, ejercitar mi cerebro al máximo para lograr la resolución de problemas día a día y hacer de la programación parte de mi vida.</h4>
 
 <h5>Lenguajes & herramientas:</h5>
 <div  id="techs">
@@ -39,8 +38,8 @@
 <img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-dsc/events/logo_RdHo7Lf.png"  width="50px">
 <img src="https://railway.app/brand/logo-light.png"  width="50px">
 
-  
 </div>
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=diegoandres22&theme=transparent&hide_border=true&border_radius=9&locale=es&date_format=j%2Fn%5B%2FY%5D&mode=weekly)](https://git.io/streak-stats)
 
@@ -49,9 +48,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegoandres22&layout=compact)
 
 
+<h4>" La creatividad es la inteligencia divirtiéndose "</h4>
 <div  id="gifs">
 
-  
   <img src="https://media.giphy.com/media/0lGElDgkbXFRKXsAro/giphy-downsized-large.gif"  width="400px">
   <img src="https://media.giphy.com/media/VVGdG2HimJl6APwPiE/giphy.gif"  width="425px">
 </div>
