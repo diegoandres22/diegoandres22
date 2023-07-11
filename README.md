@@ -21,7 +21,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/640px-JavaScript-logo.png"  width="50px">
   <img src="https://qph.cf2.quoracdn.net/main-qimg-c43424186b9c089b9aa1d64c7f1989c1"  width="60px">
   <img src="https://www.easianetwork.com.my/wp-content/uploads/2019/07/mysql-logo.png"  width="60px">
-  <img src="https://assets.stickpng.com/images/62cdcc97e106734e1ce200a9.png"  width="50px">
+  <img src="https://w7.pngwing.com/pngs/358/849/png-transparent-postgresql-database-logo-database-symbol-blue-text-logo-thumbnail.png"  width="50px">
 
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png"  width="50px">
 
