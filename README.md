@@ -3,7 +3,7 @@
 
 <div  id="gifs">
 
-<img src="https://media.giphy.com/media/IwTWTsUzmIicM/giphy.gif" width="1000px" height="250px" border-radius="15px">
+<img src="https://media.giphy.com/media/IuoMIzWcfVR6quJUgq/giphy.gif" width="1000px" height="250px" border-radius="15px">
 
 </div>
 
