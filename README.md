@@ -14,7 +14,7 @@
 <h4>Lenguajes & herramientas:</h4>
 <div  id="techs">
 
-  <img src="hhttps://velog.velcdn.com/images/js43o/post/3ab8d087-c4f4-46b5-8f65-6d5e1736b58e/image.png"  width="70px">
+  <img src="https://velog.velcdn.com/images/js43o/post/3ab8d087-c4f4-46b5-8f65-6d5e1736b58e/image.png"  width="70px">
   <img src="https://assets.awwwards.com/awards/element/2022/09/6313eaf4b41bd275260216.png" width="90px">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/2048px-HTML5_Badge.svg.png"  width="50px">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png"  width="50px">
