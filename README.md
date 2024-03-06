@@ -13,6 +13,9 @@
 
 <h4>Lenguajes & herramientas:</h4>
 <div  id="techs">
+
+  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/tailwindcss_logo_icon_170649.png"  width="50px">
+  <img src="https://assets.awwwards.com/awards/element/2022/09/6313eaf4b41bd275260216.png" width="50px">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/2048px-HTML5_Badge.svg.png"  width="50px">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png"  width="50px">
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-typescript-1174965.png?f=webp"  width="50px">
