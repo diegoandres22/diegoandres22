@@ -30,6 +30,7 @@
   <img src="https://bgasparotto.com/wp-content/uploads/2017/12/spring-boot-logo.png"  width="80px">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"  width="50px">
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png"  width="50px">
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRLVaPhBNOB77faiQJu1EBD1kRWNu4xLgkiw&s"  width="50px">
  
 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/888px-Apache_NetBeans_Logo.svg.png"  width="40px">
