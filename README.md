@@ -40,7 +40,7 @@
  
 <img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-dsc/events/logo_RdHo7Lf.png"  width="50px">
 <img src="https://railway.app/brand/logo-light.png"  width="50px">
-<img src="https://3.imimg.com/data3/IR/DF/MY-4477801/node-js-500x500.png"  width="50px">
+<img src="https://miro.medium.com/v2/resize:fit:900/1*TY9uBBO9leUbRtlXmQBiug.png"  width="50px">
 
 
 
